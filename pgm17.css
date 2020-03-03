@@ -1,0 +1,17 @@
+
+body{
+ background-image:url("/home/Sem6B8/20171cse9016/html/img/yamaha-r15-v30.jpg");
+ background-repeat:no-repeat;
+ background-attachment:fixed;
+ background-repeat:repeat-x;
+ background-repeat:repeat-y;
+}
+
+
+body
+p style="text-showdow:4px 4px 8px blue;">
+If your browser supports the css text-shadow property,this text will have a blue shadow
+p
+body
+
+
